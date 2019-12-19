@@ -1,1 +1,1 @@
-module github.com/alecthomas/template
+module github.com/udkyo/template
